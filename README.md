@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="center">
+ <img  width="800" height="300" src="./img/banner-linux.png">
+</p>
+<h2 align="center">Hola, por aca Walter Casanova</h2>
+<p align="center"> Administrador de sistemas, enfocado en el Mundo GNU/Linux
+</p>
+
+
+
 <!--
 **jepetoleee/jepetoleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
